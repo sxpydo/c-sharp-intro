@@ -1,0 +1,14 @@
+C:\Users\speyn\upskilling\C#\module3\bin\Debug\net9.0\module3.exe
+C:\Users\speyn\upskilling\C#\module3\bin\Debug\net9.0\module3.deps.json
+C:\Users\speyn\upskilling\C#\module3\bin\Debug\net9.0\module3.runtimeconfig.json
+C:\Users\speyn\upskilling\C#\module3\bin\Debug\net9.0\module3.dll
+C:\Users\speyn\upskilling\C#\module3\bin\Debug\net9.0\module3.pdb
+C:\Users\speyn\upskilling\C#\module3\obj\Debug\net9.0\module3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\speyn\upskilling\C#\module3\obj\Debug\net9.0\module3.AssemblyInfoInputs.cache
+C:\Users\speyn\upskilling\C#\module3\obj\Debug\net9.0\module3.AssemblyInfo.cs
+C:\Users\speyn\upskilling\C#\module3\obj\Debug\net9.0\module3.csproj.CoreCompileInputs.cache
+C:\Users\speyn\upskilling\C#\module3\obj\Debug\net9.0\module3.dll
+C:\Users\speyn\upskilling\C#\module3\obj\Debug\net9.0\refint\module3.dll
+C:\Users\speyn\upskilling\C#\module3\obj\Debug\net9.0\module3.pdb
+C:\Users\speyn\upskilling\C#\module3\obj\Debug\net9.0\module3.genruntimeconfig.cache
+C:\Users\speyn\upskilling\C#\module3\obj\Debug\net9.0\ref\module3.dll
